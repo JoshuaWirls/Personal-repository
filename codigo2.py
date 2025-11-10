@@ -1,2 +1,3 @@
-nombre = "joshua"
+nombre = "Benjamin"
+apellido = "wilson"
 print ("hola" + nombre)
